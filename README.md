@@ -65,7 +65,13 @@ Interactive data analysis and visualization using Python / Excel.
 
 ## 📊 GitHub Stats
 
-![Pav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paveenkumar255&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Pav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paveenkumar255&show_icons=true&count_private=true&hide=issues,prs&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Paveenkumar255&theme=tokyonight)
 
 ---
 
