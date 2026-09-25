@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pav
+# 👋 Hi, I'm Paveenkumar N
 
 ### 🤖 AI & Machine Learning Student | CSE
 
